@@ -15,3 +15,8 @@ name = "Zayn"
 age = 24
 print("Naam:", name)
 print(Umar:", age)
+
+## Day 2 - 18 Sep 2026
+- Learned: Input/Output using ‘input()’ and ‘print()’
+- Built a basic text-based interactive program
+- Learned how user input works and how data is stored in variables
