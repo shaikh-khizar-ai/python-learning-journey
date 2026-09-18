@@ -12,6 +12,6 @@ My daily journey learning python and statistics for AI in Logistics.
 
 **Code:**
 name = "Zayn"
-age = 22
+age = 24
 print("Naam:", name)
 print(Umar:", age)
