@@ -20,3 +20,11 @@ print(Umar:", age)
 - Learned: Input/Output using ‘input()’ and ‘print()’
 - Built a basic text-based interactive program
 - Learned how user input works and how data is stored in variables
+
+## Day 3 - 19 Sep 2026
+- Learned: Numbers and Math
+  (Integer, Float)
+- Learned: 7 Operators (+ - * / // % **)
+- Learned: BODMAS and Type Conversion
+- Practiced 5 examples on Pydroid
+- Output: Freight cost, Days calculation, Average speed, BODMAS, Type conversion
