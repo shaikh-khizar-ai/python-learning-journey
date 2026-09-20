@@ -28,3 +28,10 @@ print(Umar:", age)
 - Learned: BODMAS and Type Conversion
 - Practiced 5 examples on Pydroid
 - Output: Freight cost, Days calculation, Average speed, BODMAS, Type conversion
+
+## Day 4 - 20 Sep 2026
+- Learned: Strings (Text handling)
+- Learned: Concatenation, Repetition, Length
+- Learned: Indexing, Slicing, String Methods
+- Learned: f-Strings (best practice for formatting)
+- Practiced 6 examples on Pydroid
