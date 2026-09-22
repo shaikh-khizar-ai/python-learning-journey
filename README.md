@@ -35,3 +35,10 @@ print(Umar:", age)
 - Learned: Indexing, Slicing, String Methods
 - Learned: f-Strings (best practice for formatting)
 - Practiced 6 examples on Pydroid
+
+## Day 5 - 22 Sep 2026
+- Learned: Lists (Data grouping)
+- Learned: Indexing, Slicing
+- Learned: Methods (append, remove, sort, len)
+- Learned: Mixed data lists
+- Practiced on Pydroid (code run - 1 error, fixed)
