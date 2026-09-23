@@ -42,3 +42,10 @@ print(Umar:", age)
 - Learned: Methods (append, remove, sort, len)
 - Learned: Mixed data lists
 - Practiced on Pydroid (code run - 1 error, fixed)
+
+## Day 6 - 23 Sep 2026
+- Learned: Loops (for, while)
+- Learned: range(), Loop with List, Loop with Calculation
+- Practiced 6 examples on VS Code (Laptop)
+- Set up: Python 3.13, VS Code, Jupyter extension
+- Moved from mobile (Pydroid) to laptop (VS Code)
