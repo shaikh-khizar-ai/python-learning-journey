@@ -49,3 +49,11 @@ print(Umar:", age)
 - Practiced 6 examples on VS Code (Laptop)
 - Set up: Python 3.13, VS Code, Jupyter extension
 - Moved from mobile (Pydroid) to laptop (VS Code)
+
+## Day 7 - 24 Sep 2026
+- Python Test: 19/25 ✅
+- Stats Test: 14.5/25 ✅
+- Revised: Variables, Input/Output, Numbers, Strings, Lists, Loops
+- Revised: Mean, Median, Mode, Range, Variance, Std Dev, Z-Score
+- Learned: Correlation (intro)
+- Week 1 Complete — Alhamdulillah!
