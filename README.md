@@ -57,3 +57,9 @@ print(Umar:", age)
 - Revised: Mean, Median, Mode, Range, Variance, Std Dev, Z-Score
 - Learned: Correlation (intro)
 - Week 1 Complete — Alhamdulillah!
+
+## Day 8 - 25 Sep 2026
+- Revised: Variables, Input/Output, Numbers, Strings, Lists, Loops
+- Revised: Mean, Median, Mode, Range, Variance, Std Dev, Z-Score
+- Practice: VS Code self-practice
+- Excel: Starting from 26 Sep 2026
