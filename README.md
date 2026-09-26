@@ -63,3 +63,9 @@ print(Umar:", age)
 - Revised: Mean, Median, Mode, Range, Variance, Std Dev, Z-Score
 - Practice: VS Code self-practice
 - Excel: Starting from 26 Sep 2026
+
+## Day 9 - 26 Sep 2026
+- Learned: Python Functions (def, parameters, function call)
+- Learned: Stats Correlation (positive, negative, zero)
+- Revised: Sales Comm (Tell me about yourself)
+- Note: Laptop under repair, practicing on notebook
