@@ -69,3 +69,10 @@ print(Umar:", age)
 - Learned: Stats Correlation (positive, negative, zero)
 - Revised: Sales Comm (Tell me about yourself)
 - Note: Laptop under repair, practicing on notebook
+
+## Day 10 - 27 Sep 2026
+- Learned: Python Functions (return, multiple parameters, default parameters)
+- Learned: Print vs Return ka fark
+- Learned: Stats Linear Regression (y = mx + b, prediction concept)
+- Practiced: Sales Comm ("Biggest strength" interview answer)
+- Note: Laptop under repair, practicing on notebook
