@@ -76,3 +76,10 @@ print(Umar:", age)
 - Learned: Stats Linear Regression (y = mx + b, prediction concept)
 - Practiced: Sales Comm ("Biggest strength" interview answer)
 - Note: Laptop under repair, practicing on notebook
+
+## Day 11 - 30 Sep 2026
+- Learned: Python Dictionaries (Keys, values, items, loops)
+- Learned: Excel Basics (cells, formulas, SUM)
+- Started: VS Code to GitHub push workflow (11 files pushed)
+- Started: Applied Statistcs (real freight data practice)
+- Practiced: Sales Communication structure (understanding, not memorizing)
