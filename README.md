@@ -83,3 +83,9 @@ print(Umar:", age)
 - Started: VS Code to GitHub push workflow (11 files pushed)
 - Started: Applied Statistcs (real freight data practice)
 - Practiced: Sales Communication structure (understanding, not memorizing)
+
+## Day 12 - 01 Oct 2026
+- Learned: Python Nested Dictionaries
+- Learned: Excel Functions (AVERAGE, COUNT, MAX, MIN, COUNTA)
+- Practiced: Applied Statistics with freight data
+- Note: 25-row dataset practice in Excel
