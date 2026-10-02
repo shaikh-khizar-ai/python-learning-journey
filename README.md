@@ -90,4 +90,10 @@ print(Umar:", age)
 - Practiced: Applied Statistics with freight data
 - Note: 25-row dataset practice in Excel
 
-## Day 13 - 
+## Day 13 - 02 Oct 2026
+- Learned: Excel Functions (IF, COUNTIF, SUMIF)
+- Practiced: 30-row freight dataset with conditional analysis
+- Learned: Statistics Applied (Range, Variance, Std Dev in Jupyter)
+- Learned: String Repetition (`"=" * 40` for separators)
+- Learned: `.2f` formatting for decimal places
+- Note: Created Insights report in Excel with professional English
