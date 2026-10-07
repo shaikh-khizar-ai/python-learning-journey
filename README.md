@@ -97,3 +97,11 @@ print(Umar:", age)
 - Learned: String Repetition (`"=" * 40` for separators)
 - Learned: `.2f` formatting for decimal places
 - Note: Created Insights report in Excel with professional English
+
+## Day 14 - 07 Oct 2026
+- Learned: Excel VLOOKUP (basics + advanced)
+- Learned: Applied Statistics in Excel (CORREL)
+- Learned: Applied Statistics in Jupyter (Correlation Matrix)
+- Practiced: 50-row freight dataset with multiple master tables
+- Solved: Destination City lookup issue myself
+- Learned: IFERROR for handling errors gracefully
